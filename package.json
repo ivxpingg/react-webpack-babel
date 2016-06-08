@@ -1,0 +1,29 @@
+{
+  "name": "react-webpack-babel",
+  "version": "1.0.0",
+  "description": "react webpack babel sass start demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "",
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivxpingg/react-webpack-babel.git"
+  },
+  "keywords": [
+    "react",
+    "webpack",
+    "babel",
+    "sass",
+    "start",
+    "demo"
+  ],
+  "author": "ivxpingg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivxpingg/react-webpack-babel/issues"
+  },
+  "homepage": "https://github.com/ivxpingg/react-webpack-babel#readme"
+}
