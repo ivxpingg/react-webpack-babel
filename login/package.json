@@ -6,7 +6,7 @@
   "scripts": {
     "build": "webpack --progress --colors",
     "start": "webpack-dev-server --port 8888 --inline --hot --progress --colors",
-    "dev": "webpack-dev-server --port 8080 --progress --profile --colors --hot"
+    "dev": "webpack-dev-server --port 8880 --progress --profile --colors --hot"
   },
   "keywords": [
     "react",
