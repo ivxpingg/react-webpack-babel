@@ -5,10 +5,13 @@ export default class extends React.Component{
 	render() {
 		return (
                <div className="container">
-                   <div className="left">dfff000fd</div>
+                   <div className="left">
+                       <div className="band-cover"></div>
+                       <div className="logo-img"></div>
+                   </div>
                    <div className="right">
                         <div className="band-bg">
-                             <div className="logo">00logod22222d</div>
+                             <div className="logo"></div>
                         </div>
                    </div>
                </div>

@@ -1,4 +1,4 @@
-require('./index.css');
+require('./index.scss');
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { render } from 'react-dom';
@@ -6,6 +6,6 @@ import { render } from 'react-dom';
 import Container from './parts/container.js';
 
 
-render(
-    (<Container />), document.querySelector('body')
+ReactDOM.render(
+    (<Container />), document.querySelector('#ddd')
 );

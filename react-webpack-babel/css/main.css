@@ -1,6 +1,6 @@
 
 .homelink,.hellolink,.formlink,.buttonlink,.timerlink{
-  margin: 10px;
+  margin: 100px;
 }
 .formwrapper{
   width: 300px;
@@ -14,3 +14,4 @@
   margin-top: 50px;
   border:1px solid #b8b8b8;
 }
+

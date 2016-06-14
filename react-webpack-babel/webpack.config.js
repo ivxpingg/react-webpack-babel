@@ -17,7 +17,7 @@ module.exports = {
             {
               test: /\.js$/,
               exclude: /node_modules/,
-              loader: "react-hot!babel-loader",
+              loader: "babel-loader",
               query:
                 {
                   presets:['react','es2015']
@@ -26,7 +26,7 @@ module.exports = {
         ]
     },
     resolve:{
-        extensions:['','.js','.json']
+        extensions:['','.css','.js','.json']
     },
     devServer: {
         hot: true,

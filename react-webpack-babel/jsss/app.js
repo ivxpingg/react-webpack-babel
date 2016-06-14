@@ -9,7 +9,7 @@ let App = React.createClass({
 		return (
 			<div className="nav">
                <Link to="app" class="homelink">Home </Link>
-               <Link to="hello" class="hellolink"> Say Hello</Link>
+               <Link to="hello" class="hellolink"> Say Hello </Link>
                <RouteHandler/>
 			</div>
 			);

@@ -13,8 +13,8 @@ let App = React.createClass({
   render() {
     return (
       <div className="nav">
-        <Link to="/hello" className="hellolink">Say Hello11</Link>
-        <Link to="/timer" className="timerlink">Timer</Link>
+        <Link to="/hello" className="hellolink">Say Hello11 --</Link>
+        <Link to="/timer" className="timerlink">Timer --+</Link>
         <Link to="/data" className="datalink">Data Growth</Link>
         {this.props.children}
       </div>
